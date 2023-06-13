@@ -16,7 +16,7 @@ Must haves:
 ## Getting Started
 Clone the repository in your local machine.
 ```
-git clone https://github.com/imanojg/COVID-VACCINE-DATABASE-MANAGEMENT-SYSTEM.git
+git clone https://github.com/software-more-likely/Animal-Welfare-Trust-AWT.git
 ```
 
 Traverse to the cloned folder in your pc using your terminal and then install all the dependencies.<br>
